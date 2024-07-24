@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/mind-bridge/static/css/main.643fea5b.css",
+    "main.js": "/github.io/mind-bridge/static/js/main.dfacf624.js",
+    "index.html": "/github.io/mind-bridge/index.html",
+    "main.643fea5b.css.map": "/github.io/mind-bridge/static/css/main.643fea5b.css.map",
+    "main.dfacf624.js.map": "/github.io/mind-bridge/static/js/main.dfacf624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.643fea5b.css",
+    "static/js/main.dfacf624.js"
+  ]
+}
